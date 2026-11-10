@@ -64,7 +64,11 @@ lonelymail.admin:  # 写信、群发、查/清邮箱，default: op
 
 ## 下载
 
-直接下编译好的：**[LonelyMail-0.1.0.jar](dist/LonelyMail-0.1.0.jar)**（23 KB）
+编译好的 jar（23 KB），两种方式任选：
+
+- **Releases 页**（推荐）：[LonelyMail v1.0.0](https://github.com/YH200402/LonelyMail/releases/latest) → 点 `LonelyMail-0.1.0.jar`
+- **直接链接**：<https://github.com/YH200402/LonelyMail/releases/download/v1.0.0/LonelyMail-0.1.0.jar>
+- 仓库内备份：[dist/LonelyMail-0.1.0.jar](dist/LonelyMail-0.1.0.jar)（点页面右上角 Download raw file）
 
 ## 安装
 

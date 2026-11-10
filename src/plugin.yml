@@ -1,0 +1,20 @@
+﻿name: LonelyMail
+main: com.dsh.lonelymail.Main
+version: 0.1.0
+author: dsh
+description: 离线邮件系统：玩家离线也能收到物品与奖励
+
+commands:
+  mail:
+    description: 打开邮箱 / 管理员寄信
+    usage: /mail | /mail send <玩家> <物品键> <数量> [附言] | /mail help
+    aliases: [youxiang, mailbox]
+
+permissions:
+  lonelymail.use:
+    description: 使用邮箱
+    default: true
+  lonelymail.admin:
+    description: 管理员寄信
+    default: op
+

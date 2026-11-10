@@ -1,0 +1,20 @@
+﻿# build output
+build/
+dist/
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# OS
+.DS_Store
+Thumbs.db
+
+# logs
+*.log

@@ -62,6 +62,10 @@ lonelymail.use:    # 收信、打开邮箱，default: true
 lonelymail.admin:  # 写信、群发、查/清邮箱，default: op
 ```
 
+## 下载
+
+直接下编译好的：**[LonelyMail-0.1.0.jar](dist/LonelyMail-0.1.0.jar)**（23 KB）
+
 ## 安装
 
 1. 把 jar 丢进 `plugins/`
